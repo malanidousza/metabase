@@ -82,7 +82,8 @@ Hit our Query API from Javascript to integrate analytics. Metabase enables your 
 
 Check out our guide, [Working with the Metabase API](https://www.metabase.com/learn/administration/metabase-api).
 
-## Security Disclosure
+## Security Disclosure 
+
 
 See [SECURITY.md](./SECURITY.md) for details.
 
